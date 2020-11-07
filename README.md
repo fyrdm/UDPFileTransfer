@@ -1,6 +1,6 @@
 # UDPFileTransfer
 
-* Implements UDP protocol in order to send/recv images. Client's sending image file to Server.
+* Implements UDP protocol in order to send/recv images. Client is sending image file to Server.
 
 * Görüntü gönderip-almak için UDP protokolü gerçeklenmiştir.
 
